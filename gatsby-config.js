@@ -6,7 +6,7 @@ module.exports = {
     "gatsby-plugin-sass",
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
-   
+
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
     {
@@ -16,7 +16,6 @@ module.exports = {
       },
     },
     "gatsby-transformer-remark",
-    "gatsby-plugin-mdx",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
